@@ -1,0 +1,7 @@
+.metabaseFrame {
+  width: 120%;
+  height: 120%;
+  border: none;
+  transform: scale(0.8);
+  transform-origin: 0 0;
+}
